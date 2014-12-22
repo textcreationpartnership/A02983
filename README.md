@@ -35,9 +35,14 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An abstract of the proceedings of the French King The defeating of the Duke of Parmas forces. The pr
+
 #####Body#####
-An abstract of the proceedings of the French King The defeating of the Duke of Parmas forces. The pr
+
+1. ❧A BRIEFE
+Abſtract of the late particular
+proceedings of the French King
+in France.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
